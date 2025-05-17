@@ -16,6 +16,20 @@ Este repositorio contiene una colección de componentes reutilizables, diseñado
 
 ## 📦 Tecnologías utilizadas
 
-- TypeScript
-- Tailwind CSS
-- Next JS
+- **TypeScript**
+- **Tailwind CSS**
+- **ShadCN UI**
+- **Next.js** (estructura `app/`)
+- **@tanstack/react-table**
+
+---
+
+## 🧩 Componentes disponibles
+
+| Componente          | Descripción                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| **Tabla de frontend** | Tabla donde la búsqueda, filtros y ordenamiento se manejan en el frontend. Ideal para volúmenes moderados de datos. Incluye filtros por texto, fecha, dropdowns y sumatoria de columna numérica. 
+
+---
+
+
