@@ -1,6 +1,6 @@
 # 🧱 components-library
 
-Este repositorio contiene una colección de componentes reutilizables, diseñados para integrarse fácilmente en distintos proyectos. Todos los componentes están construidos con un enfoque modular, con documentación asociada y ejemplos funcionales.
+Este repositorio contiene una colección de componentes reutilizables, diseñados para integrarse fácilmente en distintos proyectos.
 
 ---
 
