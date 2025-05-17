@@ -28,6 +28,6 @@ Este repositorio contiene una colección de componentes reutilizables, diseñado
 
 | Componente            | Descripción                                                                                                   | Vista previa                                                                 |
 |-----------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| **Tabla de frontend** | Tabla donde la búsqueda, filtros y ordenamiento se manejan en el frontend. Ideal para volúmenes moderados. Incluye filtros por texto, fechas, dropdowns y sumatoria de columnas. [Ver ejemplo](./library/ClientTable/example/page.tsx) | ![Tabla](./screenshots/front.png)<br>![Filtros](./screenshots/filters.png)  |
+| **Tabla de frontend** | Tabla donde la búsqueda, filtros y ordenamiento se manejan en el frontend. Ideal para volúmenes moderados. Incluye filtros por texto, fechas, dropdowns y sumatoria de columnas.  | ![Tabla](./screenshots/front.png)<br>![Filtros](./screenshots/filters.png)  |
 
 ---
